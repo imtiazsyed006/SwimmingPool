@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+D:\Altium\Projects\SwimmingPool\Project Outputs for SwimmingPool\Pick Place for SwimmingPool.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/01/23
+Time:       14:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment              Layer    Footprint                       Center-X(mm) Center-Y(mm) Rotation Description                                                                                                               
+U1         STM32F401CBU6        TopLayer STM-UFQFPN48_M                  98.6790      36.5760      0        "ARM Cortex-M4 32-bit MCU+FPU, 105 DMIPS, 128 kB Flash, 64 kB Internal RAM, 36 I/Os, 48-pin UFQFPN, -40 to 85 degC, Tray" 
+Y1         CX2016DB40000D0FLJCC TopLayer FP-CX2016DB-MFG                 89.0270      36.1950      225      "CRYSTAL 40.0000MHZ 8PF SMD"                                                                                              
+U4         AP7343               TopLayer SOT95P245X110-5N                100.8591     72.2630      0        ""                                                                                                                        
+U3         E49400T20S           TopLayer PCBComponent_1                  117.2210     42.5810      0        ""                                                                                                                        
+U2         TPS54336ADDA         TopLayer FP-DDA0008E-IPC_C               100.3511     63.6270      0        "IC REG BUCK ADJUSTABLE 3A 8SOPWR"                                                                                        
+RESET      PTS645SH50SMTR92LFS  TopLayer FP-PTS645SH50SMTR92LFS-MFG      78.2531      66.8020      90       "SWITCH TACTILE SPST-NO 0.05A 12V"                                                                                        
+R10        100k                 TopLayer FP-ERA3A-IPC_A                  129.0320     45.4660      90       "RES SMD 100K OHM 0.1% 1/10W 0603"                                                                                        
+R9         100k                 TopLayer FP-ERA3A-IPC_A                  129.0320     50.4190      90       "RES SMD 100K OHM 0.1% 1/10W 0603"                                                                                        
+R8         19k                  TopLayer FP-CRCW0603-e3-IPC_A            122.7031     70.4850      90       "RES Thick Film, 18kO, 1%, 0.1W, 100ppm/°C, 0603"                                                                         
+R7         15k                  TopLayer FP-CRCW0603-e3-MFG              93.4720      60.7060      90       "RES Thick Film, 15kO, 1%, 0.1W, 100ppm/°C, 0603"                                                                         
+R6         3.74k                TopLayer RESC1608X55X30ML15T15           108.8390     64.6430      180      ""                                                                                                                        
+R5         100k                 TopLayer FP-ERA3A-IPC_A                  122.7031     74.6760      270      "RES SMD 100K OHM 0.1% 1/10W 0603"                                                                                        
+R4         100k                 TopLayer FP-RC0603-0_55-MFG              93.4720      64.5160      90       "RES SMD 100K OHM 1% 1/10W 0603"                                                                                          
+R3         10k                  TopLayer RESC1609X55X30LL15T15           96.2660      27.9400      90       "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"                         
+R2         10k                  TopLayer RESC1609X55X30LL15T15           98.8271      46.8630      270      "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"                         
+R1         10k                  TopLayer RESC1609X55X30LL15T15           83.0580      64.8970      270      "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"                         
+Q1         2N3904               TopLayer ONSC-TO-92-3-29-11              89.4080      54.1020      0        "General Purpose Transistor, NPN Silicon, 200 mA, 60 V, -55 to 150 degC, 3-Pin TO-92, RoHS, Bulk"                         
+L1         1.8uH                TopLayer WE-PDF-1045                     114.9350     73.9140      0        "SMD Power Inductor WE-PDF, L = 1.80 µH"                                                                                  
+J4         B2B-XH-A(LF)(SN)     TopLayer FP-B2B-XH-A_LF_SN-MFG           90.1700      75.8360      0        "CONN HEADER VERT 2POS 2.5MM"                                                                                             
+J3         B04B-XASK-1(LF)(SN)  TopLayer FP-B04B-XASK-1_LF_SN-MFG        80.2851      42.1640      270      "CONN HEADER VERT 4POS 2.5MM"                                                                                             
+J2         B2B-XH-A(LF)(SN)     TopLayer FP-B2B-XH-A_LF_SN-MFG           128.5410     62.2089      270      "CONN HEADER VERT 2POS 2.5MM"                                                                                             
+J1         B3B-XH-A(LF)(SN)     TopLayer FP-B3B-XH-A_LF_SN-MFG           79.6290      55.0310      90       "CONN HEADER VERT 3POS 2.5MM"                                                                                             
+DS1        TLMS1100-GS08        TopLayer VISH-TLMX1100_V                 131.9530     45.6300      270      "LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                                                 
+D1         TLMP1100-GS08        TopLayer FP-6_541-5056_01-4-MFG          131.9530     50.5460      90       "LED GREEN 0603 SMD"                                                                                                      
+C20        100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          104.2670     28.3210      270      "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        
+C19        100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          101.4730     28.3210      270      "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        
+C18        1uF                  TopLayer FP-0603-L_1_6_0_1-W_0_8_0-IPC_B 104.2881     72.2630      90       None                                                                                                                      
+C17        1uF                  TopLayer FP-0603-L_1_6_0_1-W_0_8_0-IPC_B 97.3031      72.2208      90       None                                                                                                                      
+C16        120pF                TopLayer CAPC1608X87X35NL15T15           107.8441     61.9760      90       ""                                                                                                                        
+C15        12nF                 TopLayer FP-C0603C-CF-MFG                109.8550     61.9760      270      "CAP CER 0.012UF 50V 10% X7R 0603"                                                                                        
+C14        10nF                 TopLayer CAPC1608X90X35ML10T15           105.5581     61.9760      90       "Chip Capacitor, 10 nF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"                          
+C13        47uF                 TopLayer FP-T491D476K025AT-MFG           121.9411     62.2300      90       "CAP TANT 47UF 10% 25V 2917"                                                                                              
+C12        47uf                 TopLayer FP-T491D476K025AT-MFG           116.3531     62.2300      90       "CAP TANT 47UF 10% 25V 2917"                                                                                              
+C11        10uF                 TopLayer FP-GRM188-0_2-MFG               90.9531      61.4680      0        "Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 25V"                                  
+C10        10uF                 TopLayer FP-GRM188-0_2-MFG               90.9531      63.8810      0        "Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 25V"                                  
+C9         100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          100.7321     59.5630      180      "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        
+C8         100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          83.0580      69.7140      90       "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        
+C7         8pF                  TopLayer FP-CGA3E-0_3-0_1-IPC_A          89.1540      33.0200      0        "Cap Ceramic 8pF 50V C0G 0.5pF Pad SMD 0603 +125°C Automotive T/R"                                                        
+C6         22uF                 TopLayer FP-GRM188-0_2-MFG               98.6790      28.0670      270      "Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 22uF, X5R, 15%, 20%, 10V"                                  
+C5         8pF                  TopLayer FP-CGA3E-0_3-0_1-IPC_A          89.0270      39.3700      180      "Cap Ceramic 8pF 50V C0G 0.5pF Pad SMD 0603 +125°C Automotive T/R"                                                        
+C4         100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          96.7951      47.7900      90       "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        
+C3         100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          94.1281      47.7900      90       "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        
+C2         100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          91.4611      47.7900      90       "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        
+C1         100nF                TopLayer FP-CGA3E-0_3-0_1-IPC_A          88.7941      47.7900      90       "Cap Ceramic 100nF 50V X7R 10% Pad SMD 0603 +125°C Automotive T/R"                                                        

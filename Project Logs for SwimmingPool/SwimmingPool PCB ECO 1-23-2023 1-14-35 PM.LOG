@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=+9V NewDesignator=J4
+Added Component: Designator=U1(STM-UFQFPN48_M)
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-26
+Add Pin To Net: Unknown Pin: Pin U1-27
+Add Pin To Net: Unknown Pin: Pin U1-28
+Add Pin To Net: Unknown Pin: Pin U1-29
+Add Pin To Net: Unknown Pin: Pin U1-30
+Add Pin To Net: Unknown Pin: Pin U1-31
+Add Pin To Net: Unknown Pin: Pin U1-34
+Add Pin To Net: Unknown Pin: Pin U1-35
+Add Pin To Net: Unknown Pin: Pin U1-36
+Add Pin To Net: Unknown Pin: Pin U1-37
+Add Pin To Net: Unknown Pin: Pin U1-44
+Add Pin To Net: Unknown Pin: Pin U1-47
+Add Pin To Net: Unknown Pin: Pin U1-48
+Add Pin To Net: Unknown Pin: Pin U1-49
+Add Class Member: Failed to add class member : Component U1 STM32F401CBU6
+Added Room: Name=E49400T20S
+Added Room: Name=STM32F401
+Added Room: Name=TPS54336ADDA

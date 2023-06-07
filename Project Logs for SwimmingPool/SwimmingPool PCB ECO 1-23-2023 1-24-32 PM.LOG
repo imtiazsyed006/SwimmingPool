@@ -1,0 +1,48 @@
+Added Component: Designator=U1(STM-UFQFPN48_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 7 x 7 x 0.6 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "UFQFPN48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F401CBU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=U1-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-5
+Added Pin To Net: NetName=NetC7_2 Pin=U1-6
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+3.3V Pin=U1-9
+Added Pin To Net: NetName=ADCIN Pin=U1-10
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Pin To Net: NetName=NetC6_1 Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=+3.3V Pin=U1-24
+Added Pin To Net: NetName=M1 Pin=U1-26
+Added Pin To Net: NetName=M0 Pin=U1-27
+Added Pin To Net: NetName=AUX Pin=U1-28
+Added Pin To Net: NetName=NetQ1_2 Pin=U1-29
+Added Pin To Net: NetName=RXD Pin=U1-30
+Added Pin To Net: NetName=TXD Pin=U1-31
+Added Pin To Net: NetName=SDIO Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=+3.3V Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=BOOT0 Pin=U1-44
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=+3.3V Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Member To Class: ClassName=STM32F401 Member=Component U1 STM32F401CBU6
